@@ -1,0 +1,18 @@
+Polymorphism (Many Forms)
+✅ Definition (Interview Friendly)
+Polymorphism means "one method with multiple behaviors depending on the object at runtime."
+It allows you to write flexible and reusable code.
+
+📚 Types of Polymorphism in Java
+Type	How?	When Decided?
+1. Compile-time	Method Overloading	At compile time
+2. Runtime	Method Overriding (via extends)	At runtime
+
+🔹 Real-Life Example: Payment System
+You have a method makePayment():
+
+If user pays by Credit Card, it does one thing
+
+If user pays by UPI, it does something else
+
+Same method name → different behavior → Polymorphism

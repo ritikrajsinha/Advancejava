@@ -1,0 +1,17 @@
+Abstraction means hiding internal implementation details and exposing only the required functionality to the user.
+
+It lets the user focus on what an object does, not how it does it.
+
+🚗 Real-Life Car Example (Abstraction)
+You are driving a car:
+You use start(), drive(), stop() — that's all.
+
+You don't know or don’t need to know:
+
+How the engine works
+
+How fuel is injected
+
+How sensors communicate
+
+These internal details are abstracted away.
