@@ -1,0 +1,16 @@
+Encapsulation is one of the four fundamental OOP concepts. It is the process of binding data (variables) and methods (functions) that operate on the data into a single unit (i.e., a class) and restricting direct access to some of the object's components.
+
+🔐 Why use Encapsulation?
+To hide internal implementation details.
+
+To protect data from unauthorized access/modification.
+
+To make the code more maintainable, flexible, and secure.
+
+📦 Real-life Example: ATM Machine
+When you withdraw money from an ATM, you interact with a simple interface (screen/buttons).
+
+But you don’t see or control how the transaction happens internally (database checks, authentication, balance update, etc.).
+
+That internal logic is encapsulated.
+
